@@ -1,3 +1,5 @@
+package introdução_a_java;
+
 // INTRODUÇÃO AO JAVA
 
 public class Aula01{
