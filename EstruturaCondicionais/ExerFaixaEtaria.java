@@ -1,4 +1,3 @@
-package EstruturaCondicionais;
 import java.util.Scanner;
 public class ExerFaixaEtaria {
     public static void main(String[] args) {

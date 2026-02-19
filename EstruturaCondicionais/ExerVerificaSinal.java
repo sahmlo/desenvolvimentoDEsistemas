@@ -1,5 +1,3 @@
-package EstruturaCondicionais;
-
 import java.util.Scanner;
 
 public class ExerVerificaSinal {

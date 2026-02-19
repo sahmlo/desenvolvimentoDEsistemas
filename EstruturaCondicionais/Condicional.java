@@ -1,4 +1,3 @@
-package EstruturaCondicionais;
 import java.util.Scanner;
 
 public class Condicional {

@@ -1,4 +1,4 @@
-package EstruturaCondicionais;
+
 import java.util.Scanner;
 
 public class ExerVerificarIdade {
