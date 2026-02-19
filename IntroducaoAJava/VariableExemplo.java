@@ -1,5 +1,3 @@
-package introdução_a_java;
-
 import java.util.Locale;
 
 public class VariableExemplo {

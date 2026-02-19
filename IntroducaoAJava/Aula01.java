@@ -1,7 +1,3 @@
-package introdução_a_java;
-
-// INTRODUÇÃO AO JAVA
-
 public class Aula01{
     public static void main(String[] args) {
         // PRIMEIRO HELLO WORLD EM JAVA
@@ -9,4 +5,3 @@ public class Aula01{
         System.out.print("Olá, Mundo!"); // IMPRESSÃO NA TELA COM QUEBRA DE LINHA
     }
 }
-

@@ -1,5 +1,3 @@
-package introdução_a_java;
-
 import java.util.Scanner;
 
 public class Media {
@@ -21,4 +19,3 @@ public class Media {
         System.out.printf("A média das notas é: %.2f%n", media);
     }
 }
- 

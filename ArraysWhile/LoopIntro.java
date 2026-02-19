@@ -1,5 +1,3 @@
-package arrays_while;
-
 public class LoopIntro {
     public static void main(String[] args) {
         int x = 1;

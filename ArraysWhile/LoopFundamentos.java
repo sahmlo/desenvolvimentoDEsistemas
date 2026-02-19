@@ -1,22 +1,22 @@
-package arrays_while;
-
 import java.util.Scanner;
 
-public class LoopString {
+public class LoopFundamentos {
     public static void main(String[] args) {
+        
         System.out.println("\033[H\033[2J");
         System.out.flush();
 
         Scanner sc = new Scanner(System.in);
-        String resp="sim";
+        int numero = 0;
 
-        while (resp.equalsIgnoreCase("sim")) { // enquanto resposta for igual a sim.
-            System.out.println("deseja continuar? Sim ou não");
-            resp=sc.nextLine();
+        while (numero!=10) {
+
+            System.out.println("INFORME 10 PARA CANCELAR");
+            numero = sc.nextInt();
         }
         System.out.println("programa encerrado");
 
         sc.close();
     }
-    
 }
+

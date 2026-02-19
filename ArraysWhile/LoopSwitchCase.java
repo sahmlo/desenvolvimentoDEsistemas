@@ -1,5 +1,3 @@
-package arrays_while;
-
 import java.util.Scanner;
 
 public class LoopSwitchCase {

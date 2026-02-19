@@ -1,5 +1,3 @@
-package introdução_a_java;
-
 public class Variavel {
     public static void main(String[] args) {
         // DECLARAÇÃO DE VARIÁVEIS
