@@ -11,3 +11,4 @@ public class VetoresIntermedio {
         System.out.println(numeros[1]);
     }
 }
+
