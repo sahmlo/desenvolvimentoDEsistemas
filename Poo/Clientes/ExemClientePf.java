@@ -1,4 +1,5 @@
 package Clientes;
+
 public class ExemClientePf extends ExemCliente{
     private String cpf;
     

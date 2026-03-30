@@ -1,4 +1,5 @@
 package Clientes;
+
 public class ExemClientePj extends ExemCliente{
     private String cnpj;
     

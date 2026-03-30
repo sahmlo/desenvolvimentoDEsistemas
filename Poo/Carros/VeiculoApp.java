@@ -1,6 +1,5 @@
 public class VeiculoApp {
     public static void main(String[] args) {
-      
         System.out.println("--- Dados da Moto ---");
         Moto minhaMoto = new Moto("Honda", 2023, 500);
         minhaMoto.exibirInfo();

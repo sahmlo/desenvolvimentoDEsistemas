@@ -37,5 +37,4 @@ public class ExemCliente {
         System.out.println("Seu nome é: " + getNome());
         System.out.println("Seu endereço é: " + getEndereco());
     }
-
 }
